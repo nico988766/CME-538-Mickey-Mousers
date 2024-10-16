@@ -1,0 +1,18 @@
+Main Sources:
+(1) 2010–2012 California Household Travel Survey - for training & validation
+https://www.nrel.gov/transportation/secure-transportation-data/tsdc-california-travel-survey.html
+
+(2) 2012 California Household Travel Survey Supplement - for testing
+https://www.nrel.gov/transportation/secure-transportation-data/tsdc-california-travel-survey-supplement.html
+
+Others (as needed):
+(1) USA Consensus API
+https://www.census.gov/data/developers/data-sets.html
+
+(2) Google Places API
+https://developers.google.com/maps/documentation/places/web-service/overview
+
+(3) OpenStreetMap
+https://www.openstreetmap.org/#map=3/71.34/-96.82
+Python: https://pygis.io/docs/d_access_osm.html
+https://wiki.openstreetmap.org/wiki/OSMPythonTools
