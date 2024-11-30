@@ -1,6 +1,8 @@
 # CME-538-Mickey-Mousers
 Repository for Mickey Mousers for the CME538 group project.
 
+The focus is full-time students & full-time workers
+
 Main Source:
 2010–2012 California Household Travel Survey
 https://www.nrel.gov/transportation/secure-transportation-data/tsdc-california-travel-survey.html
