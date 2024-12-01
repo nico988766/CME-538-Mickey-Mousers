@@ -4,6 +4,7 @@ Number of household members on trip
 Mode of transport
 Duration of trip
 Trip distance
+Straight-line distance between origin and destination
 Time of arrival
 Time of departure
 city_from_zip

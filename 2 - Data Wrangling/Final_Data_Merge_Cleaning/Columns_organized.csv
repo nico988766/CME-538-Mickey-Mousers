@@ -4,6 +4,7 @@ Number of household members on trip,hhmem
 Mode of transport,mode_category
 Duration of trip,duration_min
 Trip distance,trip_distance_miles
+Straight-line distance between origin and destination,air_trip_distance_miles
 Time of arrival,arr_time
 Time of departure,dep_time
 city_from_zip,city_from_zip
