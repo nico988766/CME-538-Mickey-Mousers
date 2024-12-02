@@ -13,4 +13,4 @@ https://utoronto-my.sharepoint.com/:u:/r/personal/n_zhu_mail_utoronto_ca/Documen
 Weather API Source:
 https://open-meteo.com/en/docs/historical-weather-api
 
-TODO - FLOWCHART HERE
+![image info](model_flowchart.png)
