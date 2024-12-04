@@ -1,5 +1,5 @@
 # CME-538-Mickey-Mousers
-Repository for Mickey Mousers for the CME538 group project.
+Repository for Mickey Mousers for the CME538 group project. The attribution table can be found at the bottom of this page.
 
 ## Project Overview
 
@@ -27,6 +27,10 @@ Weather API Source:
 https://open-meteo.com/en/docs/historical-weather-api
 
 ![image info](model_flowchart.jpg)
+
+## How to Run the Model?
+
+TODO
 
 ## Attribution Table
 
