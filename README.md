@@ -1,5 +1,5 @@
 # CME-538-Mickey-Mousers
-Repository for Mickey Mousers for the CME538 group project. The attribution table can be found at the bottom of this page.
+Repository for the Mickey Mousers CME538 Group Project. A tutorial on accessing the data, running the analysis, and training the model is provided below the methodology flowchart. The attribution table is located at the bottom of this page.
 
 ## Project Overview
 
