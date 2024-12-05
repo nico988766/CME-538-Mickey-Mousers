@@ -36,7 +36,11 @@ Raw data
 - Move the new CSV files to the next step in "2 - Data Wrangling"
 
 Data Wrangling
-- RAY HER
+- Go to folder "2 - Data Wrangling"
+- Download the files in the subfolders "places_data_cleaning", "veh_data_cleaning", and "weather_data_veh_merging"
+- Run the respective notebooks after unzipping the files if necessary. Some files may need to be copied over to the different folders for the code to run.
+- After running the files, we can run the "2024-11-30 Merge_Full_Data.ipynb" file directly from the cloned Git repo, as the csv files are small enough to be hosted on Git at this stage. If needed, move the required files from the step above to this folder.
+- Take the resulting output files "worker_data" and "student_data" and upload them to the respective subfolders in "3 - EDA"
 
 Analysis
 - go to folder "3 - EDA"
