@@ -53,6 +53,7 @@ Model
 - go to folder "4 - Feature ENG & Model Evaluation"
 - go to subfolder "students" or "workers" depending on interest
 - download the files in the folder
+- the pickle file is in the ZIP called 'model' and can be used and extracted as needed
 - Run the Notebook in the folder and keep the csv in the same directory
 
 
