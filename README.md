@@ -29,8 +29,29 @@ https://open-meteo.com/en/docs/historical-weather-api
 ![image info](model_flowchart.jpg)
 
 ## How to Run the Model?
+Raw data
+- go to folder "1 - Raw Data"
+- Download all files
+- Extract the "CHTS_raw_caltrans_db" and then run the relevant code
+- Move the new CSV files to the next step in "2 - Data Wrangling"
 
-TODO
+Data Wrangling
+- RAY HER
+
+Analysis
+- go to folder "3 - EDA"
+- go to subfolder "students" or "workers" depending on interest
+- download the files in the folder
+- Run the Notebook in the folder and keep the csv in the same directory
+- After running move the updated CSV (if any) into the next folder "4 - Feature ENG & Model Evaluation" under the correct tab
+  
+Model
+- go to folder "4 - Feature ENG & Model Evaluation"
+- go to subfolder "students" or "workers" depending on interest
+- download the files in the folder
+- Run the Notebook in the folder and keep the csv in the same directory
+
+
 
 ## Attribution Table
 
